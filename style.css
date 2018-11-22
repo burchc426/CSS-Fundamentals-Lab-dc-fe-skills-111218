@@ -15,6 +15,7 @@ body {
     text-align: center;
   }
   figure ~ p {
+    display: inline-block;
     text-align: center;
     width: 800px;
   }
