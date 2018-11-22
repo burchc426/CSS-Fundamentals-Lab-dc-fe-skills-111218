@@ -5,7 +5,7 @@ body {
   
   header {text-align: center;}
   #featured-property {text-align: center;}
-  a {
+  header a {
     text-align: center;
     padding-right: 10px;
     padding-left:10px;
