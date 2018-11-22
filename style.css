@@ -10,7 +10,10 @@ body {
     margin-right: auto;
     width: 50%;
   }
-  figcaption {font-size: 11px;}
+  figcaption {
+    font-size: 11px;
+    text-align: center;
+  }
   
   header a {
     text-align: center;
