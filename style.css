@@ -14,7 +14,9 @@ body {
     font-size: 11px;
     text-align: center;
   }
-  p{width: 800px;}
+  p{width: 800px;
+    text-align: center;
+  }
 
   header a {
     text-align: center;
