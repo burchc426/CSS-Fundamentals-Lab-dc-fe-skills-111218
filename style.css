@@ -5,6 +5,9 @@ body {
   
   header {text-align: center;}
   figure {
+    display: block;
+    
+  
   
   {text-align: center;
     width: 800px;
