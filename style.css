@@ -12,4 +12,4 @@ body {
     background-color:grey;
   }
   figcaption {font-size: 11px;} 
-  #featured-property {width: 800px;}
+  p#featured-property {width: 800px;}
