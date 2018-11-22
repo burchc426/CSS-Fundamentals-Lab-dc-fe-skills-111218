@@ -16,9 +16,8 @@ body {
   }
   #featured-property p {
     width: 800px;
-    text-align: center;
   }
-  
+ figure {text-align: center;} 
   header a {
     text-align: center;
     padding-right: 10px;
