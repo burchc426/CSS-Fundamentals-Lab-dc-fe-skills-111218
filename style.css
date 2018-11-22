@@ -4,7 +4,9 @@ body {
   margin: 0;}
   
   header {text-align: center;}
-  #featured-property {text-align: center;}
+  #featured-property {text-align: center;
+    width: 800px;
+  }
   header a {
     text-align: center;
     padding-right: 10px;
@@ -12,4 +14,3 @@ body {
     background-color:grey;
   }
   figcaption {font-size: 11px;} 
-  #featured-property {width: 800px;}
