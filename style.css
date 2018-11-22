@@ -8,6 +8,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    font-size: 11px;
   }
   
   header a {
@@ -16,4 +17,3 @@ body {
     padding-left:10px;
     background-color:grey;
   }
-  figcaption {font-size: 11px;} 
