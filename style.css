@@ -18,7 +18,10 @@ body {
     display: block;
   }
   div {float: left;}
-  div ~ 
+  div ~  #follow {
+    background-color: red;
+    width: 25%;
+  }
  
 
   header a {
