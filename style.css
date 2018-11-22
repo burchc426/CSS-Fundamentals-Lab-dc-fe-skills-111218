@@ -9,8 +9,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    font-size: 11px;
   }
+  figcaption {font-size: 11px;}
   
   header a {
     text-align: center;
