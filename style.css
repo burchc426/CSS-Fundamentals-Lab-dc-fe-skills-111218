@@ -6,6 +6,7 @@ body {
   header {text-align: center;}
   figure {
     margin: auto;
+    width: 50%;
     font-size: 11px;
   }
   
