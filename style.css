@@ -14,7 +14,10 @@ body {
     font-size: 11px;
     text-align: center;
   }
-  
+  #details {
+    display: block;
+  }
+  div {float: left;}
  
 
   header a {
